@@ -1,2 +1,2 @@
-# stepik---auto-tests
+# stepik-auto-tests
 lerning
